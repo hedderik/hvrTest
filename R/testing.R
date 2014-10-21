@@ -1,1 +1,1 @@
-xtesting()
+testing()
